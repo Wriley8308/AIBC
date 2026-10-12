@@ -1,2 +1,2 @@
 # AIBC
-<a href="./Analysis06-Final.html">./Website Analysis(06)-Final.html</a>
+<a href="./Analysis06-Final.html">./Analysis06-Final.html</a>
